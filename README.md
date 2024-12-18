@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Lua programming involving implicit nil handling.  The `foo` function attempts arithmetic on a potentially nil value, leading to a runtime error.  The solution illustrates proper nil checking to prevent this.
